@@ -1,7 +1,7 @@
 ## Hi, I'm Muhammad — Embedded Systems & AIoT Firmware Engineer
 
 I build **embedded/AIoT systems end-to-end**: board bring-up, driver development, RTOS tasks, protocol stacks, and secure OTA → up through **edge analytics, ML model deployment, and lightweight dashboards**.  
-Strong in **STM32 / ESP32 / RPi / nRF / Arduino** and **industrial integrations** (PLCs, SCADA), with deep experience in **debugging, optimization, model training, and production hardening**.
+Strong in **STM32 / ESP32 / RPI / nRF / Arduino** and **industrial integrations** (PLCs, SCADA), with deep experience in **debugging, optimization, model training, and production hardening**.
 
 - 🔧 **Firmware focus:** HAL/LL drivers, peripherals, DMA, ISR design, power & memory tuning  
 - ⏱️ **RTOS:** task design, queues, timers, ISRs, zero-copy buffers, profiling  
