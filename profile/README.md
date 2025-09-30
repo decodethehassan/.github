@@ -1,10 +1,12 @@
 ## Hi, I'm Muhammad — Embedded Systems & AIoT Firmware Engineer
 
-I build **embedded/AIoT systems end-to-end**: board bring-up, driver development, RTOS tasks, protocol stacks, and secure OTA → up through edge analytics and lightweight dashboards. Strong in **STM32 / ESP32 / RPI / nRF / Arduino** and **industrial integrations** (PLCs, SCADA), with deep experience in **debugging, optimization, and production hardening**.
+I build **embedded/AIoT systems end-to-end**: board bring-up, driver development, RTOS tasks, protocol stacks, and secure OTA → up through **edge analytics, ML model deployment, and lightweight dashboards**.  
+Strong in **STM32 / ESP32 / RPi / nRF / Arduino** and **industrial integrations** (PLCs, SCADA), with deep experience in **debugging, optimization, model training, and production hardening**.
 
 - 🔧 **Firmware focus:** HAL/LL drivers, peripherals, DMA, ISR design, power & memory tuning  
 - ⏱️ **RTOS:** task design, queues, timers, ISRs, zero-copy buffers, profiling  
 - 📡 **Protocols:** BLE, Wi-Fi, MQTT, Modbus, CAN, RS-485, I²C, SPI, TCP/IP  
+- 🧠 **ML Expertise:** data preprocessing, model training (classification, regression, CV), TensorFlow/PyTorch  
 - 🏭 **Industrial:** Siemens/Mitsubishi PLCs, SCADA connectivity, field deployments
 
 ---
@@ -64,13 +66,14 @@ I build **embedded/AIoT systems end-to-end**: board bring-up, driver development
 
 ---
 
-### 🧪 Test, EDA & Simulation
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white&style=for-the-badge)
-![Altium Designer](https://img.shields.io/badge/Altium_Designer-000000?logo=altiumdesigner&logoColor=white&style=for-the-badge)
-![Proteus](https://img.shields.io/badge/Proteus-0F766E?style=for-the-badge)
-![PSpice](https://img.shields.io/badge/PSpice-B91C1C?style=for-the-badge)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?logo=matlab&logoColor=white&style=for-the-badge)
-![LabVIEW](https://img.shields.io/badge/LabVIEW-1A73E8?logo=nationalinstruments&logoColor=white&style=for-the-badge)
+### 📊 Machine Learning, Data & AIoT
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge)
 
